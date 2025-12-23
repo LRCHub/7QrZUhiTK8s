@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The Blessing",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-23T07:06:59.803330Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Blessing",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_The_Blessing_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Blessing and the Curse",
+      "artist": "Phinehas",
+      "has_synced": true,
+      "path": "select/02_The_Blessing_and_the_Curse_Phinehas.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Blessing and the Curse",
+      "artist": "Phinehas feat. Brennan Chaulk",
+      "has_synced": true,
+      "path": "select/03_The_Blessing_and_the_Curse_Phinehas_feat._Brennan_Chaulk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Blessing and the Curse (feat. Brennan Chaulk)",
+      "artist": "Phinehas",
+      "has_synced": true,
+      "path": "select/04_The_Blessing_and_the_Curse_(feat._Brennan_Chaulk)_Phinehas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Block the Blessing",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/05_Don't_Block_the_Blessing_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Blessing",
+      "artist": "The Temple",
+      "has_synced": false,
+      "path": "select/06_The_Blessing_The_Temple.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Bendición (The Blessing)",
+      "artist": "Elevation Worship",
+      "has_synced": true,
+      "path": "select/07_La_Bendición_(The_Blessing)_Elevation_Worship.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Blessing (Morning & Evening)",
+      "artist": "Elevation Worship",
+      "has_synced": true,
+      "path": "select/08_The_Blessing_(Morning_&_Evening)_Elevation_Worship.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Blessing",
+      "artist": "The Legendary Pink Dots",
+      "has_synced": false,
+      "path": "select/09_The_Blessing_The_Legendary_Pink_Dots.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Blessing",
+      "artist": "Bethel Music feat. We The Kingdom",
+      "has_synced": true,
+      "path": "select/10_The_Blessing_Bethel_Music_feat._We_The_Kingdom.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Blessing",
+      "artist": "Bethel Music",
+      "has_synced": true,
+      "path": "select/11_The_Blessing_Bethel_Music.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Blessing (feat. Cody Carnes)",
+      "artist": "Kari Jobe feat. Cody Carnes",
+      "has_synced": true,
+      "path": "select/12_The_Blessing_(feat._Cody_Carnes)_Kari_Jobe_feat._Cody_Carnes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Blessing",
+      "artist": "Kari Jobe/Cody Carnes",
+      "has_synced": true,
+      "path": "select/13_The_Blessing_Kari_Jobe_Cody_Carnes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Blessing (feat. Cody Carnes) [Cinematic Version]",
+      "artist": "Kari Jobe",
+      "has_synced": false,
+      "path": "select/14_The_Blessing_(feat._Cody_Carnes)_[Cinematic_Version]_Kari_Jobe.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Blessing - Cinematic Version",
+      "artist": "Kari Jobe/Cody Carnes",
+      "has_synced": false,
+      "path": "select/15_The_Blessing_-_Cinematic_Version_Kari_Jobe_Cody_Carnes.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Blessing",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/16_The_Blessing_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Blessing",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_The_Blessing_YOASOBI.txt"
+    }
+  ]
+}
